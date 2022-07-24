@@ -18,3 +18,5 @@ Project) 오락실 Pang 게임 만들기
 3. 캐릭터 : 33 * 60 - character.png
 4. 무기 : 20 * 430 - weapon.png
 5. 공 : 160 * 160, 80 * 80, 40* 40, 20* 20 - balloon1.png ~ balloon4.png
+
+https://user-images.githubusercontent.com/99054659/180635647-e7f73256-e677-4efe-873c-bae8a213ddde.mov
